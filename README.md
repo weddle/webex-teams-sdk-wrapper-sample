@@ -2,7 +2,7 @@
 
 ## Embed video calling capabilities into your Android App in just a few lines of code
 
-This Simple Test application demonstrates the Webex Teams Android SDK Wrapper.
+This Simple test application demonstrates the [Webex Teams Android SDK Wrapper](https://github.com/weddle/webex-teams-sdk-wrapper).
 
 The Webex Teams Android SDK Wrapper is an unofficial convenience library written on top of the Webex Teams Android SDK.  It provides a simple way to add Webex Teams video calling into your Android application.  This library provides a drop in Activity class that can be used to start a Webex Teams video call, without needing to understand the details of the underlying Webex Teams SDK.
 
