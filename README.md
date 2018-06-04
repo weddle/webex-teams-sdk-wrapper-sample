@@ -1,3 +1,5 @@
+[![LICENSE](https://img.shields.io/github/license/weddle/webex-teams-sdk-wrapper-sample.svg)](https://github.com/weddle/webex-teams-sdk-wrapper-sample/blob/master/LICENSE)
+
 # Webex Teams Android SDK Wrapper Sample
 
 ## Embed video calling capabilities into your Android App in just a few lines of code
